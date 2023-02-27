@@ -1,0 +1,41 @@
+{
+  "name": "is-ip-valid",
+  "version": "1.0.0",
+  "description": "Check if a string is a valid IP address",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexprabhat/is-ip-valid.git"
+  },
+  "author": "Alex Prabhat Bara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexprabhat/is-ip-valid/issues"
+  },
+  "homepage": "https://github.com/alexprabhat/is-ip-valid#readme",
+  "exports": "./index.js",
+  "type": "module",
+  "keywords": [
+		"ip",
+		"ipv6",
+		"ipv4",
+		"regex",
+		"regexp",
+		"match",
+		"test",
+		"find",
+		"text",
+		"pattern",
+		"internet",
+		"protocol",
+		"address",
+		"validate",
+		"detect",
+		"check",
+		"is",
+		"string"
+	]
+}
