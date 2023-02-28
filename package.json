@@ -1,6 +1,6 @@
 {
   "name": "is-ip-valid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check if a string is a valid IP address",
   "main": "index.js",
   "scripts": {
