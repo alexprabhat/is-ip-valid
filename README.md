@@ -5,7 +5,7 @@ Check if a string is a valid IP address
 ## Install
 
 ```sh
-npm install is-ip
+npm install is-ip-valid
 ```
 
 ## API
